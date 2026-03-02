@@ -137,7 +137,3 @@ Relative includes are resolved from the including file's directory.
     assets:bank                    2500.00 EUR
     income:salary
 ```
-
-## Notes
-
-This is a strong starting point, not yet a complete reimplementation of every `hledger` command and report.
